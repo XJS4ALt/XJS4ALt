@@ -9,3 +9,6 @@ System.out.println("Hello World!")
 ```HTML
 <h1>Hello World!</h1>
 ```
+```Python
+print ("Hello World");
+```
