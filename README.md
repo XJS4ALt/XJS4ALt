@@ -12,3 +12,6 @@ System.out.println("Hello World!")
 ```C++
 cout << ("Hello World!") << endl
 ```
+```JavaScript
+Console.log("Hello World!");
+```
