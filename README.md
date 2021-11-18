@@ -6,9 +6,9 @@ Console.WriteLine("Hello World!")
 ```Java
 System.out.println("Hello World!")
 ```
-```HTML
+```HTML 
 <h1>Hello World!</h1>
 ```
-```Python
-print ("Hello World");
+```C++
+cout << ("Hello World!") << endl
 ```
