@@ -15,3 +15,6 @@ cout << ("Hello World!") << endl
 ```JavaScript
 Console.log("Hello World!");
 ```
+```C
+printf("Hello World!")
+```
