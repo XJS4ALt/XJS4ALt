@@ -18,3 +18,9 @@ Console.log("Hello World!");
 ```C
 printf("Hello World!")
 ```
+```Shell
+echo "Hello World!"
+```
+```Python
+print("Hello World!")
+```
