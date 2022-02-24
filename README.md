@@ -24,3 +24,6 @@ echo "Hello World!"
 ```Python
 print("Hello World!")
 ```
+```C++
+cout << "Hello World\n";
+```
